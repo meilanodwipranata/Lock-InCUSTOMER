@@ -1,2 +1,2 @@
 "versi":"1.1"
-"url_update":""
+"url_update":"https://download/"
